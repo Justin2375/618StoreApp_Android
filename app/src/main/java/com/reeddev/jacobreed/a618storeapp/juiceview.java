@@ -6,6 +6,7 @@ import android.os.Bundle;
 
 public class juiceview extends AppCompatActivity {
 
+    /* Creates the new activity */
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
